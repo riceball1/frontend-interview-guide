@@ -1,0 +1,39 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main {
+  margin: 100px 0;
+  padding: 20px;
+}
+
+a {
+    font-weight: bold;
+    color: teal;
+}
+
+/* sticky header */
+header {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  padding: 5px;
+}
+
+header > h1 {
+    text-align: center;
+}
+
+/* sticky footer */
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
