@@ -5,7 +5,10 @@ export default {
 
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
-
+  router: {
+    base: '/frontend-interview-guide/'
+  }
+  ,
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'Frontend Interview Guide',
