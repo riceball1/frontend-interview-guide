@@ -1,19 +1,18 @@
-# Frontend Software Engineer Interview Guide
+# Frontend Engineer Interview Guide
 
 A free guide to frontend interviews, the following repository will cover areas that may be commonly found in frontend developer interviews.
 
-## Interview Topics
+## Topics
+- Frontend System Design
 
-| Interview Topic| Description |
-|----|---|
-|Frontend Coding Challenges| **|
-|Frontend System Design| **|
-|Frontend Technical Behavioral| **|
-|Frontend Take-Home Assignments| **|
-|General DSA + Algo Coding Challenges| **|
+## Development
 
-## Other areas
+Tech used:
+ - [nuxt v3](https://nuxt.com/v3)
+ - [tailwindcss](https://tailwindcss.com/docs/)
 
-| Topics| Description |
-|----|---|
-|Frontend Skills| A section describing skills that are expected so far of frontend developers|
+Run development server
+```markdown
+npm run dev -- -o
+```
+
