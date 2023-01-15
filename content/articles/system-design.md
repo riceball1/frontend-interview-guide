@@ -1,10 +1,10 @@
-# Frontend System Design
+---
+title: Frontend System Design
+description: Learn about frontend system design 
+alt: Frontend System Design
+---
 
-[Back home](/)
-
-<hr/>
-
-## Introduction
+## **Introduction**
 
 Traditional system design interviews may involve the distributed system, which includes server, load balancer, databases, etc. However, for frontend system design interviews, the focus is more on the client and API design, rather than what goes on in the backend.
 
@@ -21,22 +21,20 @@ The fundamental traits that make up a frontend system design doesn't look that m
     - Data API and protocCLists
     - Optimizations and Deep Dive/ Low Level Design
 
-
-
-## Gather Requirements
+## **Gather Requirements**
 
 When gathering the requirements, it's important to understand the goal and the problem statement. Make sure to ask clarifying questions about what potentially should part of the requirements for the system design.
 
-## Scope
+## **Scope**
 
 Determine what part of the system to focus on, such as the core features, extended requirements, and out of scope.
 
-## Tech Choices
+## **Tech Choices**
 
 Here it would be good to consider the trade offs of particular technologies and approaches to use
 
-## Component Architecture/High Level Design
-## Data API and protocols
-## Optimizations and Deep Dive/ Low Level Design
+## **Component Architecture/High Level Design**
+## **Data API and protocols**
+## **Optimizations and Deep Dive/ Low Level Design**
 
 

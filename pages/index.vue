@@ -2,7 +2,7 @@
 <div>
   <main>
     <section class="hero-section">
-      <header>
+      <header class="max-w-3xl">
         <h1 class="font-black text-8xl">Frontend Interview Guide</h1>
         <p></p>
       </header>

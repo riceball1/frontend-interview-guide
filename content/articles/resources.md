@@ -1,7 +1,8 @@
-# Resources
-[Back home](/)
-
-<hr/>
+---
+title: Resources
+description: Links to resources to learn more about frontend interviewing
+alt: Resources
+---
 
 - [Recro — What is Front end system design? Learn how to ace a frontend interview](https://www.youtube.com/watch?v=XPNMiWyHBAU)
 - [Cracking Frontend System Design Interviews](https://www.youtube.com/watch?v=QemIfzcEeMM)
